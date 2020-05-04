@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">tuteofury</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-05-04T16:30:12+08:00</updated>
+    <updated>2020-05-04T18:15:29+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
             <id>https://example.com/posts/hello-world/</id>
-            <updated>2020-05-04T16:27:23+08:00</updated>
+            <updated>2020-05-04T18:07:10+08:00</updated>
             <published>2020-05-04T15:56:29+08:00</published>
             <author>
                     <name>tuteofury</name>
@@ -29,9 +29,9 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[正文 H1 H2 H3 1 print(&#34;Hello World&#34;) 表头 表头 单元格 单元格 单元格 单元格 引用 Link 这里是脚注1 ..着重号.. 脚注……]]></summary>
+    <summary type="html"><![CDATA[正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文……]]></summary>
             
-                <content type="html"><![CDATA[<p>正文</p>
+                <content type="html"><![CDATA[<p>正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文</p>
 <h1 id="h1">H1</h1>
 <h2 id="h2">H2</h2>
 <h3 id="h3">H3</h3>
@@ -67,6 +67,20 @@
 <p><a href="https://tuteofury.github.io" title="blog">Link</a></p>
 <p>这里是脚注<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <p><code>..着重号..</code></p>
+<ol>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ol>
+<ul>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ul>
+<p><del>划掉</del></p>
+<p><em>斜体</em></p>
+<p><strong>粗体</strong></p>
+<p><code>ok</code></p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -84,6 +98,14 @@
                 
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/test/" term="test" label="test" />
+                            
+                        
                     
                 
             

@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 04 May 2020 16:30:12 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2020 18:15:29 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
         
@@ -38,7 +38,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description><![CDATA[<p>正文</p>
+                    <description><![CDATA[<p>正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文正文</p>
 <h1 id="h1">H1</h1>
 <h2 id="h2">H2</h2>
 <h3 id="h3">H3</h3>
@@ -74,6 +74,20 @@
 <p><a href="https://tuteofury.github.io" title="blog">Link</a></p>
 <p>这里是脚注<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <p><code>..着重号..</code></p>
+<ol>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ol>
+<ul>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ul>
+<p><del>划掉</del></p>
+<p><em>斜体</em></p>
+<p><strong>粗体</strong></p>
+<p><code>ok</code></p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -91,6 +105,14 @@
                     
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/test/">test</category>
+                                
+                            
                         
                     
                 
